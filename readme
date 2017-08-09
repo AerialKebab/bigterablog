@@ -1,0 +1,8 @@
+On PHPmyadmin:
+
+1. Move bigtera_blog and bigtera_blog_cn into your htdocs folder
+2. open up localhost/phpmyadmin and create databases bigtera_blog and bigtera_blog_cn
+3. on the imports tab, import the corresponding sql files (bigtera_blog.sql to bigtera_blog, etc)
+4. To access the website administration and management tools to submit posts, go to localhost/bigtera_blog/admin. The username
+is "root" and the password is "asdf"
+5. To access website, go to localhost/bigtera_blog or localhost/bigtera_blog_cn
